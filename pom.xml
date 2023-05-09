@@ -15,7 +15,7 @@
         <maven-surefire.version>2.22.1</maven-surefire.version>
         <aspectj.version>1.8.10</aspectj.version>
         <selenium-java.version>3.14.0</selenium-java.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.5.1</testng.version>
         <owner.version>1.0.10</owner.version>
         <assertJ.version>3.13.2</assertJ.version>
     </properties>
